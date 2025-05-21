@@ -15,6 +15,11 @@
   "description": "A project that does something awesome",
   "devDependencies": {},
   "author": "Baby Nap Boltron",
+  "keywords": [
+    "backend api's",
+    "freecodecamp",
+    "course"
+  ],
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/freeCodeCamp/boilerplate-npm/issues"
