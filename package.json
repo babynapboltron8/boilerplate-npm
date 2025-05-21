@@ -14,7 +14,7 @@
   "version": "1.2.0",
   "description": "A project that does something awesome",
   "devDependencies": {
-    "package-name": "1.1.0",
+    "@freecodecamp/example": "1.1.0",
     "express": "4.14.0"
   },
   "author": "Baby Nap Boltron",
